@@ -1,0 +1,1 @@
+<?php include 'tampilanawal.php'; include 'koneksi.php'; ?>
